@@ -1,2 +1,2 @@
-# trabalho-de-programa-o.
+# trabalho-de-programação.
 exercício 1. bolo
